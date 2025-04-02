@@ -2,7 +2,8 @@
 
 // alert(10 - 3); //using nodejs, not browser so it will give error in terminal but on browser it will give pop-up window;
 
-console.log(3 + 3); //will work properly but we should avoid writing code like this to maintain code readability; code readability should be high
+console.log(3 
+            + 3); //will work properly but we should avoid writing code like this to maintain code readability; code readability should be high
 
 console.log("Vaibhav");
 
